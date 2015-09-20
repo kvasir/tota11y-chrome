@@ -1,0 +1,33 @@
+{
+    "name": "tota11y-chrome",
+    "version": "1.0.0",
+    "description": "Run tota11y as a Chrome extension.",
+    "author": "Kvasir",
+    "contributors": [
+      "John-Philip Johansson <seriema@gmail.com> (http://johansson.jp/)",
+      "Michael Strömberg Razmgah <michael@razmgah.se> (http://michael.razmgah.se/)"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/kvasir/tota11y-chrome.git"
+    },
+    "bugs": "https://github.com/kvasir/tota11y-chrome/issues",
+    "homepage": "https://github.com/kvasir/tota11y-chrome/",
+    "license": "MIT",
+    "dependencies": {},
+    "devDependencies": {
+        "chalk": "^0.5.1",
+        "clean-css": "^2.2.13",
+        "glob": "^4.0.5",
+        "grunt": "~0.4.1",
+        "grunt-contrib-clean": "^0.6.0",
+        "grunt-contrib-compass": "~0.6.0",
+        "grunt-contrib-compress": "^0.10.0",
+        "grunt-contrib-copy": "^0.5.0",
+        "grunt-contrib-htmlmin": "~0.2.0",
+        "grunt-contrib-less": "~0.11.0",
+        "grunt-contrib-uglify": "~0.4.0",
+        "grunt-contrib-watch": "~0.5.3",
+        "load-grunt-tasks": "~0.2.0"
+    }
+}

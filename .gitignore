@@ -1,0 +1,5 @@
+node_modules
+.brackets.json
+**/*.DS_Store
+**/archive.zip
+bower
